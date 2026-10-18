@@ -1,0 +1,5 @@
+{
+  "summary": "แผนการปรับโฉม UI ตามแบบ Koala Sampler แท้ และระบบ MIDI Mapping สำหรับ M-Vave SMK-37:\n1. สร้างจอแสดงคลื่นเสียง Waveform ขนาดใหญ่ด้านบน พร้อมแถบเลือกช่วง Slice/Trim ที่ลากได้\n2. ออกแบบ Pad ให้แสดงรูปคลื่นเสียงย่อ (Mini Waveform) ในทุกๆ ช่อง พร้อมโทนสี Cyan/Magenta ตามภาพต้นฉบับ\n3. เพิ่มชุดลูกบิดหมุนเสมือนจริง (Rotary Knobs) สำหรับ VOL, PITCH, PAN\n4. เพิ่มแท็บโหมดหลัก SAMPLE | SEQUENCE | PERFORM เหมือนแอป Koala แท้\n5. พัฒนาระบบ Web MIDI API รองรับ M-VAVE SMK-37 และระบบ MIDI Learn กำหนดปุ่ม/แป้นเหยียบเองได้อย่างอิสระ",
+  "updatedAt": "2026-10-18T18:29:56.156075664Z",
+  "userFacing": true
+}

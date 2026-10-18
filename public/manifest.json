@@ -1,0 +1,27 @@
+{
+  "id": "/",
+  "name": "Koala Music Studio & Beatmaker",
+  "short_name": "KoalaStudio",
+  "description": "Pocket beatmaking and sampling studio with 64 pads, 16-step sequencer, and live performance FX",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#07090f",
+  "theme_color": "#00f0ff",
+  "categories": ["music", "entertainment", "audio"],
+  "icons": [
+    {
+      "src": "/icon.svg",
+      "sizes": "192x192 512x512",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    },
+    {
+      "src": "/icon.svg",
+      "sizes": "512x512",
+      "type": "image/svg+xml",
+      "purpose": "maskable"
+    }
+  ]
+}

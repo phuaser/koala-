@@ -1,0 +1,6 @@
+{
+  "name": "Koala Music Studio & Guide",
+  "description": "สตูดิโอจำลองเครื่องทำบีท Koala Sampler พร้อมระบบแซมเปิล เอฟเฟกต์สด และคู่มือเจาะลึก Koala ในวงการดนตรี",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
